@@ -28,7 +28,7 @@ body{
 }
 
 .jumbotron hr {
-	border-color: blue;
+	border-color: crimson;
 	width: 100px;
 	border-width: 8px;
 }
